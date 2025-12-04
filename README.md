@@ -6,26 +6,14 @@ Here you will find published scientific articles, peer reviews, editorial review
 
 ---
 
-## 🏷️ Badges
-
-- 🎯 **PT ↔ EN Translation**  
-- 🛠 **Linguistic & Technical QA**  
-- ✍️ **Editing & Copyediting**  
-- 📚 **Published Author**  
-- 🔍 **Terminology Consistency**  
-- 🧪 **Academic, Gaming & Technical Domains**  
-- 💬 **5+ Years of Review Experience**
-
----
-
 ## ⭐ What I Do
 
-- PT ↔ EN translation (technical, gaming, academic, UX)  
-- Linguistic QA (tone, locale, terminology, style)  
-- Content QA & Review (clarity, coherence, structure)  
-- Technical QA (domain accuracy & consistency)  
-- Peer review & structured content evaluation  
-- Long-form editing (journals, theses, proceedings)
+- 🎯 PT ↔ EN translation (technical, gaming, academic, UX)  
+- 🛠 Linguistic QA (tone, locale, terminology, style)  
+- ✍️ Content QA & Review (clarity, coherence, structure)  
+- 🧪 Technical QA (domain accuracy & consistency)  
+- 🔍 Peer review & structured content evaluation  
+- 📚 Long-form editing (journals, theses, proceedings)
 
 ---
 
