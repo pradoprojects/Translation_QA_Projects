@@ -2,7 +2,7 @@
 **Marllos Prado — Portuguese ↔ English**
 
 A curated selection of my translation, editing, and LQA/Content QA work.  
-All files are real: published scientific articles, peer reviews, editorial reviews, and technical documents.
+Here you will find published scientific articles, peer reviews, editorial reviews, and technical documents.
 
 ---
 
@@ -13,14 +13,14 @@ All files are real: published scientific articles, peer reviews, editorial revie
 - ✍️ **Editing & Copyediting**  
 - 📚 **Published Author**  
 - 🔍 **Terminology Consistency**  
-- 🧪 **Academic & Technical Domains**  
+- 🧪 **Academic, Gaming & Technical Domains**  
 - 💬 **5+ Years of Review Experience**
 
 ---
 
 ## ⭐ What I Do
 
-- PT ↔ EN translation (technical, academic, UX)  
+- PT ↔ EN translation (technical, gaming, academic, UX)  
 - Linguistic QA (tone, locale, terminology, style)  
 - Content QA & Review (clarity, coherence, structure)  
 - Technical QA (domain accuracy & consistency)  
@@ -34,6 +34,18 @@ All files are real: published scientific articles, peer reviews, editorial revie
 Below are the files included in this portfolio, grouped by type and showing the exact roles performed.
 
 ---
+# 🕹 Gaming Localization
+
+### 📘 **MegaMan 11 - Intro**
+**Roles:** Translation
+**Summary:** Translated the Intro Scene of "Megaman 11" Switch Game.
+🔗 **PDF:** [View XLIFF](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11)
+
+### 📘 **Bakeru - Menu options**
+**Roles:** Translation
+**Summary:** Translated the Menu options for "Bakeru" Switch Game.
+🔗 **PDF:** [View XLIFF](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru)
+
 
 # 🔬 Scientific Articles
 
