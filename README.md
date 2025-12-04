@@ -29,11 +29,14 @@ Below are the files included in this portfolio, grouped by type and showing the 
 **Summary:** Translated the Intro Scene of "Megaman 11" Switch Game.
 🔗 **PDF:** [View XLIFF](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11)
 
+---
+
 ### 📘 **Bakeru - Menu options**
 **Roles:** Translation
 **Summary:** Translated the Menu options for "Bakeru" Switch Game.
-🔗 **PDF:** [View XLIFF](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru)
+🔗 **PDF:** [View XLSX](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru)
 
+---
 
 # 🔬 Scientific Articles
 
