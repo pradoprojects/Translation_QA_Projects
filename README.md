@@ -15,13 +15,14 @@ Here you will find published scientific articles, peer reviews, editorial review
 - 🔍 Peer review & structured content evaluation  
 - 📚 Long-form editing (journals, theses, proceedings)
 
----
 
-# 📚 Selected Work
+
+## 📚 Selected Work
 
 Below are the files included in this portfolio, grouped by type and showing the exact roles performed.
 
 ---
+
 # 🕹 Gaming Localization
 
 ### 📗 **MegaMan 11 - Intro**
@@ -29,14 +30,14 @@ Below are the files included in this portfolio, grouped by type and showing the 
 **Summary:** Translated the intro scene of "Megaman 11" Switch Game.
 🔗 **FILE:** [View XLIFF](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11)
 
----
+
 
 ### 📗 **Bakeru - Menu options**
 **Role:** Translation <br/>
 **Summary:** Translated the menu options for "Bakeru" Switch Game.
 🔗 **FILE:** [View XLSX](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru)
 
----
+
 
 ### 📗 **Sonic Superstars - Menu options**
 **Role:** Localization <br/>
@@ -52,53 +53,53 @@ Author • Translation • Editing • Technical & Linguistic QA
 
 The summaries below help understand the scope of each work sample.
 
----
+
 
 ### 📘 **CLEI155-Article_04-2012**  
 **Roles:** Author · Translation · Editing  
 **Summary:** Research article on Software Testing. Improved clarity, structure, and academic tone.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/CLEI155-Article_04-2012.pdf)
 
----
+
 
 ### 📘 **Main-publication-JSS-2018**  
 **Roles:** Author · Translation · Revision · Technical & Linguistic QA  
 **Summary:** Journal publication on UX and Software Engineering; required high-precision terminology and full language restructuring.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Main-publication-JSS-2018.pdf)
 
----
+
 
 ### 📘 **Prado_ISSRE_2015**  
 **Roles:** Author · Revision · Technical & Linguistic QA  
 **Summary:** IEEE conference paper on Software Reliability; ensured accuracy and readability.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Prado_ISSRE_2015.pdf)
 
----
+
 
 ### 📘 **Prado_IWPD_ISSRE_2016**  
 **Roles:** Author · Revision · Technical & Linguistic QA  
 **Summary:** Workshop publication on UX and Software Testing; structural and terminology improvements.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Prado_IWPD_ISSRE_2016.pdf)
 
----
+
 
 ### 📘 **Master’s Thesis — dissertacao_marllos.pdf**  
 **Roles:** Author · Revision · Technical & Linguistic QA  
 **Summary:** Full long-form academic editing: terminology, structure, narrative clarity.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/dissertacao_marllos.pdf)
 
----
+
 
 ### 📘 **Proceedings_Eselaw**  
 **Roles:** Editor · Revision · Technical & Linguistic QA  
 **Summary:** Editorial preparation of conference proceedings: formatting, consistency, clarity.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Proceedings_Eselaw.pdf)
 
----
+
 
 ### 📘 **Students_Mentorship**  
 **Roles:** Mentor · Revision  
-**Summary:** Document describing mentorship tasks: code clarity improvements, pedagogical guidance, academic development.  
+**Summary:** Mentorship tasks: code clarity improvements, pedagogical guidance, academic development.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Students_Mentorship.pdf)
 
 ---
@@ -109,7 +110,7 @@ The summaries below help understand the scope of each work sample.
 
 These samples demonstrate my ability to assess quality, ensure correctness, and provide actionable feedback.
 
----
+
 
 ### 📄 **CBSoft 2016**  
 🔗 [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Paper_Reviews/SBC/CBSoft%202016.pdf)
