@@ -115,9 +115,6 @@ These samples demonstrate my ability to assess quality, ensure correctness, and 
 ### 📄 **CBSoft 2016**  
 🔗 [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Paper_Reviews/SBC/CBSoft%202016.pdf)
 
-### 📄 **CLEI 2015**  
-🔗 [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Paper_Reviews/SBC/CLEI_2015.pdf)
-
 ### 📄 **SBES 2016 — Technical Research**  
 🔗 [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Paper_Reviews/SBC/SBES%202016%20-%20Technical%20Research.pdf)
 
