@@ -6,7 +6,7 @@ Here you will find published scientific articles, peer reviews, editorial review
 
 ---
 
-## ⭐ What I Do
+# ⭐ What I Do
 
 - 🎯 PT ↔ EN translation (technical, gaming, academic, UX)  
 - 🛠 Linguistic QA (tone, locale, terminology, style)  
@@ -17,13 +17,13 @@ Here you will find published scientific articles, peer reviews, editorial review
 
 
 
-## 📚 Selected Work
+# 📚 Selected Work
 
 Below are the files included in this portfolio, grouped by type and showing the exact roles performed.
 
 ---
 
-# 🕹 Gaming Localization
+## 🕹 Gaming Localization
 
 ### 📗 **MegaMan 11 - Intro**
 **Role:** Translation <br/>
@@ -46,7 +46,7 @@ Below are the files included in this portfolio, grouped by type and showing the 
 
 ---
 
-# 🔬 Scientific Articles
+## 🔬 Scientific Articles
 
 **Roles across all items:**  
 Author • Translation • Editing • Technical & Linguistic QA
@@ -104,7 +104,7 @@ The summaries below help understand the scope of each work sample.
 
 ---
 
-# 📝 Peer Reviews & QA Reports
+## 📝 Peer Reviews & QA Reports
 
 **Roles (all):** Revision · Technical QA · Linguistic QA
 
