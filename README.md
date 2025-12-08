@@ -38,6 +38,13 @@ Below are the files included in this portfolio, grouped by type and showing the 
 
 ---
 
+### 📘 **Sonic Superstars - Menu options**
+**Roles:** Localization
+**Summary:** Localized the Menu options for "Sonic Superstars" Switch Game from pt-PT to pt-BR.
+🔗 **PDF:** [View XLSX](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic)
+
+---
+
 # 🔬 Scientific Articles
 
 **Roles across all items:**  
