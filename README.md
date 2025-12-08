@@ -25,21 +25,21 @@ Below are the files included in this portfolio, grouped by type and showing the 
 # 🕹 Gaming Localization
 
 ### 📗 **MegaMan 11 - Intro**
-**Role:** Translation
+**Role:** Translation <br/>
 **Summary:** Translated the intro scene of "Megaman 11" Switch Game.
 🔗 **FILE:** [View XLIFF](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11)
 
 ---
 
 ### 📗 **Bakeru - Menu options**
-**Role:** Translation
+**Role:** Translation <br/>
 **Summary:** Translated the menu options for "Bakeru" Switch Game.
 🔗 **FILE:** [View XLSX](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru)
 
 ---
 
 ### 📗 **Sonic Superstars - Menu options**
-**Role:** Localization
+**Role:** Localization <br/>
 **Summary:** Localized the menu options for "Sonic Superstars" Switch Game from pt-PT to pt-BR.
 🔗 **FILE:** [View XLSX](https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic)
 
