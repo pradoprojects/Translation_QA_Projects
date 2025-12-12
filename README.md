@@ -53,20 +53,10 @@ Author • Translation • Editing • Technical & Linguistic QA
 
 The summaries below help understand the scope of each work sample.
 
-
-
-### 📘 **CLEI155-Article_04-2012**  
-**Roles:** Author · Translation · Editing  
-**Summary:** Research article on Software Testing. Improved clarity, structure, and academic tone.  
-🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/CLEI155-Article_04-2012.pdf)
-
-
-
 ### 📘 **Main-publication-JSS-2018**  
 **Roles:** Author · Translation · Revision · Technical & Linguistic QA  
 **Summary:** Journal publication on UX and Software Engineering; required high-precision terminology and full language restructuring.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Main-publication-JSS-2018.pdf)
-
 
 
 ### 📘 **Prado_ISSRE_2015**  
@@ -75,12 +65,10 @@ The summaries below help understand the scope of each work sample.
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Prado_ISSRE_2015.pdf)
 
 
-
 ### 📘 **Prado_IWPD_ISSRE_2016**  
 **Roles:** Author · Revision · Technical & Linguistic QA  
 **Summary:** Workshop publication on UX and Software Testing; structural and terminology improvements.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Prado_IWPD_ISSRE_2016.pdf)
-
 
 
 ### 📘 **Master’s Thesis — dissertacao_marllos.pdf**  
@@ -89,12 +77,16 @@ The summaries below help understand the scope of each work sample.
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/dissertacao_marllos.pdf)
 
 
+### 📘 **CLEI155-Article_04-2012**  
+**Roles:** Author · Translation · Editing  
+**Summary:** Research article on Software Testing. Improved clarity, structure, and academic tone.  
+🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/CLEI155-Article_04-2012.pdf)
+
 
 ### 📘 **Proceedings_Eselaw**  
 **Roles:** Editor · Revision · Technical & Linguistic QA  
 **Summary:** Editorial preparation of conference proceedings: formatting, consistency, clarity.  
 🔗 **PDF:** [View PDF](https://github.com/pradoprojects/Translation_QA_Projects/blob/main/Proceedings_Eselaw.pdf)
-
 
 
 ### 📘 **Students_Mentorship**  
