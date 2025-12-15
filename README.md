@@ -9,6 +9,7 @@ Here you will find published scientific articles, peer reviews, editorial review
 # ⭐ What I Do
 
 - 🎯 PT ↔ EN translation (technical, gaming, academic, UX)
+    - [My ProZ profile](https://www.proz.com/profile/4523581)
     - [Check my Translation Mentorship Certificate](https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0)
 - 🛠 Linguistic QA (tone, locale, terminology, style)  
 - ✍️ Content QA & Review (clarity, coherence, structure)  
