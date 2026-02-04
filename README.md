@@ -19,9 +19,9 @@ Here you will find published scientific articles, peer reviews, editorial review
 
 # 🏆 Featured Case Study
 
-### 📕 **The Pokémon Center – Strategic Localization**
+### 📕 **The Pokémon Center – Strategic Localization & UX Study**
 **Role:** Localization Lead & UX Editor <br/>
-**Summary:** A comprehensive PT-BR localization strategy for the official Pokémon Center store. This project features a UX-driven approach for global events (e.g., 2026 World Cup), terminology management (TCG/Official Glossary), and MemoQ workflows.
+**Summary:** A "Vertical Slice" study demonstrating a strategic localization approach for the Pokémon Center landing page. This project addresses the "Experience Gap" between global brand engagement and local retail conversion for PT-BR fans, optimizing the most critical entry point of the e-commerce journey through UX-driven editing and official TCG terminology alignment.
 🔗 **PROJECT REPO:** [View Case Study](https://github.com/pradoprojects/pokemon-center-ptbr)
 
 ---
