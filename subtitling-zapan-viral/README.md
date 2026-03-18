@@ -1,4 +1,4 @@
-# 🎬 Case Study: Multimedia Localization & Subtitling (Viral Content)
+# 🎬 Zapan Case Study: Multimedia Localization & Subtitling (Viral Content)
 
 ## Project Overview
 This project features the English localization and subtitling of a viral Brazilian video ("Zapan"). The goal was to adapt the spontaneous, comedic dialogue between a toddler and his mother while preserving the "Character Voice" and the specific cultural nuances of the original humor.
