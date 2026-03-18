@@ -29,7 +29,7 @@ This project features the English localization and subtitling of a viral Brazili
 ---
 
 ## 📁 Files in this folder
-* [Zapan YouTube link](https://youtu.be/Wu6vzVFb46s?si=Otjq5sOKgL5ippaw): The final rendered video with localized subtitles.
+* [Zapan YouTube Link](https://youtu.be/Wu6vzVFb46s?si=Otjq5sOKgL5ippaw): The final rendered video with localized subtitles.
 * [Zapan.srt](subtitling-zapan-viral/Zapan.srt): Source text and timing reference.
 * `README.md`: This file. Technical documentation of the process.
 
