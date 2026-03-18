@@ -29,8 +29,8 @@ This project features the English localization and subtitling of a viral Brazili
 ---
 
 ## 📁 Files in this folder
-* `Zapan.mp4`: The final rendered video with localized subtitles.
-* `Zapan.srt`: Source text and timing reference. Note: Subtitles are already hardcoded/burnt into the "Zapan.mp4" file for the intended visual experience.
+* [`Zapan.mp4`](subtitling-zapan-viral/Zapan.mp4): The final rendered video with localized subtitles.
+* [`Zapan.srt`](subtitling-zapan-viral/Zapan.srt): Source text and timing reference. Note: Subtitles are already hardcoded/burnt into the "Zapan.mp4" file for the intended visual experience.
 * `README.md`: Technical documentation of the process.
 
 ---
