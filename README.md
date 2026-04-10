@@ -169,7 +169,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-za
 Independent work. Translated the intro scene of *MegaMan 11* (Nintendo Switch).
 
 🔗 **FILE:**  
-Translations/MegaMan11  
+https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11  
 
 ---
 
@@ -180,7 +180,7 @@ Translations/MegaMan11
 Independent work. Translated menu options for *Bakeru* (Switch).
 
 🔗 **FILE:**  
-Translations/Bakeru  
+https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru  
 
 ---
 
@@ -191,7 +191,7 @@ Translations/Bakeru
 Independent work. Localized menu options for *Sonic Superstars* from pt-PT to pt-BR.
 
 🔗 **FILE:**  
-Translations/Sonic  
+https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic  
 
 ---
 
@@ -211,7 +211,7 @@ Author • Translation • Editing • Technical & Linguistic QA
 Journal publication on UX and Software Engineering requiring high-precision terminology, structural clarity, and linguistic accuracy.
 
 🔗 **PDF:**  
-Docs/Main-publication-JSS-2018.pdf  
+https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
 
 ---
 
