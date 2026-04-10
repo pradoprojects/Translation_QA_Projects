@@ -8,26 +8,22 @@ A curated portfolio showcasing **UX-driven localization, multimedia subtitling, 
 
 ## 🚀 Start Here
 
-If you’re reviewing this portfolio, I recommend starting with:
+If you're reviewing this portfolio, I recommend starting with:
 
-- 🎧 **Catch the Cup — Multilingual UX Through Music**  
-**Focus:** UX-driven subtitle timing, multilingual pacing, and emotional flow design.  
-A multimedia UX and localization case study exploring how subtitle timing, transcreation, and musical pacing guide audience attention and emotional flow across three coordinated tracks.  
+🎧 **Catch the Cup — Multilingual UX Through Music**  
+Multimedia UX case study exploring subtitle timing, multilingual pacing, and emotional flow across three coordinated tracks.  
 🔗 https://github.com/pradoprojects/catch-the-cup-localization  
 
-- 📕 **Pokémon Center – Strategic Localization & UX Study**  
-**Focus:** Terminology governance, UX editing, and usability-focused localization.  
-A vertical slice case study exploring localization and UX editing decisions for PT-BR audiences, with emphasis on terminology governance, usability clarity, and content hierarchy adaptation for localized e-commerce environments.  
+📕 **Pokémon Center — Strategic Localization & UX Study**  
+Localization strategy for PT-BR audiences focusing on terminology governance, usability clarity, and UX-informed editing.  
 🔗 https://github.com/pradoprojects/pokemon-center-ptbr  
 
-- 🎬 **Multimedia Case Study: "Zapan" (PT-BR > EN-US)**  
-**Focus:** Character voice adaptation and timing-based subtitle strategy.  
-A localization and subtitling exercise focused on character voice, comedic timing, and cultural adaptation of viral content.  
+🎬 **Zapan — Viral Video Localization (PT-BR → EN-US)**  
+Comedic localization case study focusing on timing, phonetic preservation, and subtitle readability.  
 🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral  
 
-- 📘 **Main-publication-JSS-2018**  
-**Focus:** Technical writing and UX-oriented academic communication.  
-Technical writing and UX-focused academic publication in Software Engineering.  
+📘 **Main-publication-JSS-2018**  
+Academic technical writing sample demonstrating structured UX-focused documentation.  
 🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
 
 ---
@@ -74,51 +70,21 @@ Independent work. Localized menu options for *Sonic Superstars* from pt-PT to pt
 
 # 🔬 Scientific & Technical Writing
 
-**Roles across all items:**  
-Author • Translation • Editing • Technical & Linguistic QA  
+Selected publications and technical writing samples:
 
----
+- **Main-publication-JSS-2018**  
+https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
 
-### 📘 **Main-publication-JSS-2018**  
-**Roles:** Author · Translation · Revision · Technical & Linguistic QA  
+Additional works:
 
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
+- Prado_ISSRE_2015 (Conference Paper)
+- Prado_IWPD_ISSRE_2016 (Conference Paper)
+- dissertacao_marllos.pdf (Master's Thesis)
+- CLEI155-Article_04-2012 (Article)
+- Proceedings_Eselaw (International Conference Proceedings)
 
----
-
-### 📘 **Prado_ISSRE_2015**  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Prado_ISSRE_2015.pdf  
-
----
-
-### 📘 **Prado_IWPD_ISSRE_2016**  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Prado_IWPD_ISSRE_2016.pdf  
-
----
-
-### 📘 **Master’s Thesis — dissertacao_marllos.pdf**  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/dissertacao_marllos.pdf  
-
----
-
-### 📘 **CLEI155-Article_04-2012**  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/CLEI155-Article_04-2012.pdf  
-
----
-
-### 📘 **Proceedings_Eselaw**  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Proceedings_Eselaw.pdf  
-
----
-
-### 📘 **Students_Mentorship**  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Students_Mentorship.pdf  
+📂 View full document collection:  
+https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs
 
 ---
 
@@ -158,6 +124,19 @@ These samples demonstrate structured evaluation and quality assessment.
 
 ---
 
+## 🧰 Tools
+
+MemoQ · MateCat  
+Subtitle Edit  
+Google Docs · Microsoft Word · Adobe CC  
+Canva · Figma  
+LaTeX · Overleaf  
+GitHub  
+PDF annotation tools  
+Terminology management workflows
+
+---
+
 ## 🎯 Why This Matters for UX & Localization Roles
 
 - ✔ Real, verifiable samples  
@@ -165,22 +144,6 @@ These samples demonstrate structured evaluation and quality assessment.
 - ✔ Experience with multilingual audiovisual workflows  
 - ✔ Cross-domain language precision  
 - ✔ Structured quality evaluation methodologies  
-
----
-
-## 🧰 Tools & Workflows
- 
-- MemoQ, MateCat  
-- Google Docs / Microsoft Word / Adobe CC
-- Canva / Figma
-- LaTeX / Overleaf
-- Subtitle Edit  
-- Terminology management workflows
-- PDF annotation  
-- GitHub-based versioning  
-- UX writing principles  
-- Multilingual subtitle pacing workflows  
-- Music-synced subtitle timing strategies  
 
 ---
 
