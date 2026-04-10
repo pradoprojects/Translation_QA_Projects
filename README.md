@@ -12,22 +12,22 @@ If you’re reviewing this portfolio, I recommend starting with:
 
 - 🎧 **Catch the Cup — Multilingual UX Through Music**  
 **Focus:** UX-driven subtitle timing, multilingual pacing, and emotional flow design.  
-A multimedia UX and localization case study exploring how subtitle timing, transcreation, and musical pacing guide audience attention across three coordinated tracks.  
+A multimedia UX and localization case study exploring how subtitle timing, transcreation, and musical pacing guide audience attention and emotional flow across three coordinated tracks.  
 🔗 https://github.com/pradoprojects/catch-the-cup-localization  
 
 - 📕 **Pokémon Center – Strategic Localization & UX Study**  
 **Focus:** Terminology governance, UX editing, and usability-focused localization.  
-A vertical slice case study exploring localization and UX editing decisions for PT-BR audiences, including terminology alignment and clarity improvements.  
+A vertical slice case study exploring localization and UX editing decisions for PT-BR audiences, with emphasis on terminology governance, usability clarity, and content hierarchy adaptation for localized e-commerce environments.  
 🔗 https://github.com/pradoprojects/pokemon-center-ptbr  
 
 - 🎬 **Multimedia Case Study: "Zapan" (PT-BR > EN-US)**  
 **Focus:** Character voice adaptation and timing-based subtitle strategy.  
-A localization and subtitling exercise focused on comedic timing, phonetic preservation, and subtitle readability.  
+A localization and subtitling exercise focused on character voice, comedic timing, and cultural adaptation of viral content.  
 🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral  
 
 - 📘 **Main-publication-JSS-2018**  
 **Focus:** Technical writing and UX-oriented academic communication.  
-Technical publication in Software Engineering requiring terminology precision and structured clarity.  
+Technical writing and UX-focused academic publication in Software Engineering.  
 🔗 Docs/Main-publication-JSS-2018.pdf  
 
 ---
@@ -100,7 +100,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-za
 
 ## ⭐ What I Do
 
-- 🎯 PT ↔ EN translation (gaming, UX, technical, academic)  
+- 🎯 PT ↔ EN translation (technical, gaming, academic, UX)  
   - https://www.proz.com/profile/4523581  
   - https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0  
 
@@ -215,10 +215,6 @@ Docs/Main-publication-JSS-2018.pdf
 
 ---
 
-(remaining scientific items unchanged)
-
----
-
 ## 🎯 Why This Matters for UX & Localization Roles
 
 - ✔ Real, verifiable samples (PDFs included)  
@@ -235,7 +231,7 @@ Docs/Main-publication-JSS-2018.pdf
 - LaTeX / Overleaf  
 - Google Docs / Microsoft Word  
 - MemoQ, MateCat  
-- Subtitle Edit / Multimedia subtitle synchronization  
+- Subtitle Edit / Multimedia syncing tools  
 - Terminology management workflows  
 - PDF annotation & structured review  
 - GitHub-based versioning  
