@@ -28,7 +28,7 @@ A localization and subtitling exercise focused on character voice, comedic timin
 - 📘 **Main-publication-JSS-2018**  
 **Focus:** Technical writing and UX-oriented academic communication.  
 Technical writing and UX-focused academic publication in Software Engineering.  
-🔗 https://github.com/pradoprojects/Translation_QA_Projects/Docs/Main-publication-JSS-2018.pdf  
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
 
 ---
 
@@ -100,7 +100,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-za
 
 ## 📚 Selected Work (by Category)
 
-Below are selected samples grouped by type. Each item includes a short description of the work performed.
+Below are selected samples grouped by type.
 
 ---
 
@@ -112,7 +112,7 @@ Below are selected samples grouped by type. Each item includes a short descripti
 **Role:** UX & Localization Designer · Subtitler · Transcreation Specialist  
 
 **Overview:**  
-Independent multimedia case study exploring subtitle pacing and multilingual integration through music. Three coordinated tracks simulate different stages of a global event experience, each designed to demonstrate timing, pacing, and readability strategies under musical constraints.
+Independent multimedia case study exploring subtitle pacing and multilingual integration through music.
 
 🔗 **VIDEO & DOCS:**  
 https://github.com/pradoprojects/catch-the-cup-localization  
@@ -123,7 +123,7 @@ https://github.com/pradoprojects/catch-the-cup-localization
 **Role:** Localization Editor & Subtitler  
 
 **Overview:**  
-Independent work. Localized and subtitled a viral video focusing on preservation of comedic nuances and technical subtitle constraints.
+Independent work. Localized and subtitled a viral video focusing on preservation of comedic nuances.
 
 🔗 **VIDEO & DOCS:**  
 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral  
@@ -140,7 +140,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-za
 **Summary:**  
 Independent work. Translated the intro scene of *MegaMan 11* (Nintendo Switch).
 
-🔗 **FILE:**  
+🔗  
 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11  
 
 ---
@@ -151,7 +151,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/
 **Overview:**  
 Independent work. Translated menu options for *Bakeru* (Switch).
 
-🔗 **FILE:**  
+🔗  
 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru  
 
 ---
@@ -162,14 +162,12 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/
 **Overview:**  
 Independent work. Localized menu options for *Sonic Superstars* from pt-PT to pt-BR.
 
-🔗 **FILE:**  
+🔗  
 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic  
 
 ---
 
 # 🔬 Scientific & Technical Writing
-
----
 
 **Roles across all items:**  
 Author • Translation • Editing • Technical & Linguistic QA  
@@ -179,20 +177,99 @@ Author • Translation • Editing • Technical & Linguistic QA
 ### 📘 **Main-publication-JSS-2018**  
 **Roles:** Author · Translation · Revision · Technical & Linguistic QA  
 
-**Overview:**  
-Journal publication on UX and Software Engineering requiring high-precision terminology, structural clarity, and linguistic accuracy.
-
-🔗 **PDF:**  
+🔗  
 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
+
+---
+
+### 📘 **Prado_ISSRE_2015**  
+
+🔗  
+Docs/Prado_ISSRE_2015.pdf  
+
+---
+
+### 📘 **Prado_IWPD_ISSRE_2016**  
+
+🔗  
+Docs/Prado_IWPD_ISSRE_2016.pdf  
+
+---
+
+### 📘 **Master’s Thesis — dissertacao_marllos.pdf**  
+
+🔗  
+Docs/dissertacao_marllos.pdf  
+
+---
+
+### 📘 **CLEI155-Article_04-2012**  
+
+🔗  
+Docs/CLEI155-Article_04-2012.pdf  
+
+---
+
+### 📘 **Proceedings_Eselaw**  
+
+🔗  
+Docs/Proceedings_Eselaw.pdf  
+
+---
+
+### 📘 **Students_Mentorship**  
+
+🔗  
+Docs/Students_Mentorship.pdf  
+
+---
+
+# 📝 Peer Reviews & QA Reports
+
+These samples demonstrate structured evaluation and quality assessment.
+
+---
+
+### 📄 CibSE 2017 @ ICSE  
+
+🔗  
+Paper_Reviews/Easychair/Reviews and Comments on Submission 184.pdf  
+
+---
+
+### 📄 CBSoft 2016  
+
+🔗  
+Paper_Reviews/SBC/CBSoft 2016.pdf  
+
+---
+
+### 📄 SBES 2016 — Technical Research  
+
+🔗  
+Paper_Reviews/SBC/SBES 2016 - Technical Research.pdf  
+
+---
+
+### 📄 Review Request (TSA 2016)  
+
+🔗  
+Paper_Reviews/Easychair/Review Request.pdf  
+
+---
+
+### 📄 Review Request (ESEM 2014)  
+
+🔗  
+Paper_Reviews/Easychair/Review Request2.pdf  
 
 ---
 
 ## 🎯 Why This Matters for UX & Localization Roles
 
-- ✔ Real, verifiable samples (PDFs included)  
-- ✔ Strong UX-informed localization reasoning  
+- ✔ Real, verifiable samples  
+- ✔ UX-informed localization reasoning  
 - ✔ Experience with multilingual audiovisual workflows  
-- ✔ Demonstrated subtitle pacing and timing strategies  
 - ✔ Cross-domain language precision  
 - ✔ Structured quality evaluation methodologies  
 
@@ -203,9 +280,9 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-pub
 - LaTeX / Overleaf  
 - Google Docs / Microsoft Word  
 - MemoQ, MateCat  
-- Subtitle Edit / Multimedia syncing tools  
+- Subtitle Edit  
 - Terminology management workflows  
-- PDF annotation & structured review  
+- PDF annotation  
 - GitHub-based versioning  
 - UX writing principles  
 - Multilingual subtitle pacing workflows  
@@ -216,10 +293,10 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-pub
 ## 📎 Credentials & External Profiles
 
 - 🌐 ProZ Profile  
-  https://www.proz.com/profile/4523581  
+https://www.proz.com/profile/4523581  
 
 - 📜 Translation Mentorship Certificate  
-  https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0
+https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0  
 
 ---
 
