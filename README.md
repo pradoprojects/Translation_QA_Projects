@@ -140,8 +140,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-za
 **Summary:**  
 Independent work. Translated the intro scene of *MegaMan 11* (Nintendo Switch).
 
-🔗  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11  
 
 ---
 
@@ -151,8 +150,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/
 **Overview:**  
 Independent work. Translated menu options for *Bakeru* (Switch).
 
-🔗  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru  
 
 ---
 
@@ -162,8 +160,7 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/
 **Overview:**  
 Independent work. Localized menu options for *Sonic Superstars* from pt-PT to pt-BR.
 
-🔗  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic  
 
 ---
 
@@ -177,50 +174,43 @@ Author • Translation • Editing • Technical & Linguistic QA
 ### 📘 **Main-publication-JSS-2018**  
 **Roles:** Author · Translation · Revision · Technical & Linguistic QA  
 
-🔗  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
 
 ---
 
 ### 📘 **Prado_ISSRE_2015**  
 
-🔗  
-Docs/Prado_ISSRE_2015.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Prado_ISSRE_2015.pdf  
 
 ---
 
 ### 📘 **Prado_IWPD_ISSRE_2016**  
 
-🔗  
-Docs/Prado_IWPD_ISSRE_2016.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Prado_IWPD_ISSRE_2016.pdf  
 
 ---
 
 ### 📘 **Master’s Thesis — dissertacao_marllos.pdf**  
 
-🔗  
-Docs/dissertacao_marllos.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/dissertacao_marllos.pdf  
 
 ---
 
 ### 📘 **CLEI155-Article_04-2012**  
 
-🔗  
-Docs/CLEI155-Article_04-2012.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/CLEI155-Article_04-2012.pdf  
 
 ---
 
 ### 📘 **Proceedings_Eselaw**  
 
-🔗  
-Docs/Proceedings_Eselaw.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Proceedings_Eselaw.pdf  
 
 ---
 
 ### 📘 **Students_Mentorship**  
 
-🔗  
-Docs/Students_Mentorship.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Students_Mentorship.pdf  
 
 ---
 
@@ -232,36 +222,31 @@ These samples demonstrate structured evaluation and quality assessment.
 
 ### 📄 CibSE 2017 @ ICSE  
 
-🔗  
-Paper_Reviews/Easychair/Reviews and Comments on Submission 184.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/Easychair/Reviews and Comments on Submission 184.pdf  
 
 ---
 
 ### 📄 CBSoft 2016  
 
-🔗  
-Paper_Reviews/SBC/CBSoft 2016.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/SBC/CBSoft 2016.pdf  
 
 ---
 
 ### 📄 SBES 2016 — Technical Research  
 
-🔗  
-Paper_Reviews/SBC/SBES 2016 - Technical Research.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/SBC/SBES 2016 - Technical Research.pdf  
 
 ---
 
 ### 📄 Review Request (TSA 2016)  
 
-🔗  
-Paper_Reviews/Easychair/Review Request.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/Easychair/Review Request.pdf  
 
 ---
 
 ### 📄 Review Request (ESEM 2014)  
 
-🔗  
-Paper_Reviews/Easychair/Review Request2.pdf  
+🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/Easychair/Review Request2.pdf  
 
 ---
 
