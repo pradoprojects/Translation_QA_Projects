@@ -32,72 +32,6 @@ Technical writing and UX-focused academic publication in Software Engineering.
 
 ---
 
-## 🏆 Flagship UX & Localization Project
-
-### 🎧 **Catch the Cup — Multilingual UX Through Music**  
-**Role:** UX & Localization Designer · Multimedia Subtitler · Transcreation Specialist  
-
-**Overview:**  
-Designed a multilingual music-based UX experience composed of **three coordinated tracks** (Pre-Game, Halftime, Closing), each representing a different stage of audience engagement in a simulated global live-event scenario.
-
-Rather than treating localization as a final step, this project positions **timing, structure, and language** as core components of the user experience.
-
-The case study explores how **subtitle pacing, multilingual integration, and musical rhythm** can guide audience attention, support accessibility, and shape emotional flow across languages.
-
-**Focus areas include:**  
-
-- UX-informed subtitle pacing  
-- Multilingual integration (EN / FR / ES + PT-BR transcreation)  
-- Emotional flow design across narrative stages  
-- Accessibility-focused subtitle timing  
-- Audience attention guidance through rhythm and structure  
-
-🔗 **PROJECT REPO:**  
-https://github.com/pradoprojects/catch-the-cup-localization  
-
----
-
-## ⭐ Featured Case Studies
-
----
-
-### 📕 **The Pokémon Center – Strategic Localization & UX Study**  
-**Role:** Localization Lead & UX Editor  
-
-**Overview:**  
-A vertical slice case study demonstrating a structured localization strategy for PT-BR audiences. This project focuses on bridging global brand voice with local usability expectations through terminology governance, UX-informed editing, and clarity optimization.
-
-**Focus areas include:**  
-
-- UX-informed editing  
-- Terminology alignment (official TCG standards)  
-- Content hierarchy adaptation  
-- Localization consistency strategy  
-- Usability-focused content refinement  
-
-🔗 **PROJECT REPO:**  
-https://github.com/pradoprojects/pokemon-center-ptbr  
-
----
-
-### 🎬 **Case Study: "Zapan" Viral Video**  
-**Role:** Localization Editor & Subtitler  
-
-**Overview:**  
-Adapted a viral Brazilian video for an English-speaking audience. This project involved high-level decisions on phonetic preservation ("Zapan"), pragmatic adaptation for comedic punch, and UX-focused subtitle positioning to avoid overlap with original hardcoded text.
-
-**Focus areas include:**  
-
-- Character Voice & Phonetic Adaptation  
-- Timing-based comedic translation  
-- Visual/UX subtitling strategy  
-- Subtitle readability optimization  
-
-🔗 **PROJECT REPO:**  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral  
-
----
-
 ## 📚 Selected Work (by Category)
 
 Below are selected samples grouped by type.
@@ -235,12 +169,13 @@ These samples demonstrate structured evaluation and quality assessment.
 ---
 
 ## 🧰 Tools & Workflows
-
-- LaTeX / Overleaf  
-- Google Docs / Microsoft Word  
+ 
 - MemoQ, MateCat  
+- Google Docs / Microsoft Word / Adobe CC
+- Canva / Figma
+- LaTeX / Overleaf
 - Subtitle Edit  
-- Terminology management workflows  
+- Terminology management workflows
 - PDF annotation  
 - GitHub-based versioning  
 - UX writing principles  
