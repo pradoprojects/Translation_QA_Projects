@@ -104,32 +104,6 @@ Below are selected samples grouped by type.
 
 ---
 
-# 🎬 Multimedia Localization & Subtitling
-
----
-
-### 🎧 **Catch the Cup — Multilingual Music Localization**  
-**Role:** UX & Localization Designer · Subtitler · Transcreation Specialist  
-
-**Overview:**  
-Independent multimedia case study exploring subtitle pacing and multilingual integration through music.
-
-🔗 **VIDEO & DOCS:**  
-https://github.com/pradoprojects/catch-the-cup-localization  
-
----
-
-### 📗 **Case Study: "Zapan" Viral Video**  
-**Role:** Localization Editor & Subtitler  
-
-**Overview:**  
-Independent work. Localized and subtitled a viral video focusing on preservation of comedic nuances.
-
-🔗 **VIDEO & DOCS:**  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral  
-
----
-
 # 🕹 Gaming Localization
 
 ---
