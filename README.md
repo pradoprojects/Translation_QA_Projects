@@ -98,34 +98,6 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-za
 
 ---
 
-## ⭐ What I Do
-
-- 🎯 PT ↔ EN translation (technical, gaming, academic, UX)  
-  - https://www.proz.com/profile/4523581  
-  - https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0  
-
-- 🎧 UX-driven multimedia localization  
-  (subtitle timing, pacing, and audience attention design)
-
-- 🎬 Multimedia Localization  
-  (Subtitling, time-sync, phonetic adaptation, and character voice consistency)
-
-- 🛠 Linguistic QA  
-  (tone, locale, terminology, style)
-
-- ✍️ UX Editing & Content QA  
-  (clarity, structure, readability)
-
-- 🧪 Technical QA  
-  (domain accuracy & consistency)
-
-- 🔍 Peer review & structured content evaluation  
-
-- 📚 Long-form editing  
-  (journals, theses, proceedings)
-
----
-
 ## 📚 Selected Work (by Category)
 
 Below are selected samples grouped by type. Each item includes a short description of the work performed.
@@ -238,6 +210,16 @@ https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-pub
 - UX writing principles  
 - Multilingual subtitle pacing workflows  
 - Music-synced subtitle timing strategies  
+
+---
+
+## 📎 Credentials & External Profiles
+
+- 🌐 ProZ Profile  
+  https://www.proz.com/profile/4523581  
+
+- 📜 Translation Mentorship Certificate  
+  https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0
 
 ---
 
