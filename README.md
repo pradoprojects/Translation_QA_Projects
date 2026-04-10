@@ -28,7 +28,7 @@ A localization and subtitling exercise focused on character voice, comedic timin
 - 📘 **Main-publication-JSS-2018**  
 **Focus:** Technical writing and UX-oriented academic communication.  
 Technical writing and UX-focused academic publication in Software Engineering.  
-🔗 Docs/Main-publication-JSS-2018.pdf  
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/Docs/Main-publication-JSS-2018.pdf  
 
 ---
 
