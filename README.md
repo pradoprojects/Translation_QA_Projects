@@ -3,7 +3,7 @@
 **Marllos Paiva Prado — Brazilian Portuguese ↔ English**
 **Localization Editor | Linguistic QA | UX-Aware Content Specialist**
 
-A curated portfolio showcasing localization, multilingual adaptation, subtitle workflows, editorial review, and language quality across gaming, multimedia, digital, technical, and educational content.
+A curated portfolio showcasing localization, multilingual adaptation, subtitle workflows, editorial review, technical communication, and language quality across gaming, multimedia, digital, technical, and educational content.
 
 ---
 
@@ -27,6 +27,13 @@ Multimedia localization case study exploring subtitle timing, multilingual pacin
 
 PT-BR localization strategy focused on terminology governance, usability clarity, and UX-informed editing.
 🔗 https://github.com/pradoprojects/pokemon-center-ptbr
+
+---
+
+### 🏹 **The Hunting Game — Human-Centered Technical Writing**
+
+Published English-language writing sample using metaphor and structured communication to make complex technical topics more accessible. Relevant to UX writing, localization clarity, and editorial strategy.
+🔗 https://github.com/pradoprojects/the-hunting-game-human-centered-writing
 
 ---
 
@@ -70,7 +77,7 @@ Independent sample localizing menu options from pt-PT into pt-BR.
 
 ## 🔬 Technical Writing & Research
 
-Selected technical writing samples demonstrating structured communication, documentation quality, and analytical rigor.
+Selected writing and research samples demonstrating structured communication, analytical rigor, and documentation quality.
 
 ### 📘 **Main-publication-JSS-2018**
 
@@ -113,10 +120,11 @@ Terminology Management Workflows
 
 ✔ Real portfolio samples with verifiable deliverables
 ✔ Localization strategy beyond direct translation
-✔ Subtitle timing and multilingual audiovisual workflows
 ✔ Strong PT-BR / English cross-cultural communication
+✔ Subtitle timing and multilingual audiovisual workflows
 ✔ Structured review and editorial quality mindset
 ✔ UX-aware language adaptation for digital products
+✔ Clear communication of complex ideas
 
 ---
 
