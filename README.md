@@ -83,7 +83,7 @@ Independent sample localizing menu options from pt-PT into pt-BR.
 
 Selected writing and research samples demonstrating structured communication, analytical rigor, and documentation quality.
 
-### 📘 **Main-publication-JSS-2018**
+### 📘 **Main Publication**
 
 🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf
 
