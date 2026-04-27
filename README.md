@@ -41,7 +41,8 @@ PT-BR localization strategy focused on terminology governance, usability clarity
 ### 🏹 **The Hunting Game — Human-Centered Technical Writing**
 
 Published English-language writing sample using metaphor and structured communication to make complex technical topics more accessible. Relevant to UX writing, localization clarity, and editorial strategy.  
-🔗 https://github.com/pradoprojects/the-hunting-game-human-centered-writing
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/ISSRE2015/Readme.md
+
 
 <br/>
 
