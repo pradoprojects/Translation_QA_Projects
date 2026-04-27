@@ -16,14 +16,14 @@ A curated portfolio showcasing localization, multilingual adaptation, subtitle w
 ### 🦠 **Dangers of the Internet — Freelance Narrative Localization**
 
 Freelance localization project for a Brazilian startup involving dialogue-driven educational game content (pt-BR → en-US), focused on character voice, humor adaptation, and terminology consistency.
-🔗 https://github.com/pradoprojects/dangers-of-the-internet-localization
+<br/> 🔗 https://github.com/pradoprojects/dangers-of-the-internet-localization
 
 <br/>
 
 ### 🎧 **Catch the Cup — Multilingual UX Through Music**
 
 Multimedia localization case study exploring subtitle timing, multilingual pacing, and emotional flow across three coordinated tracks.
-🔗 https://github.com/pradoprojects/catch-the-cup-localization
+<br/>🔗 https://github.com/pradoprojects/catch-the-cup-localization
 
 <br/>
 
@@ -37,14 +37,14 @@ PT-BR localization strategy focused on terminology governance, usability clarity
 ### 🏹 **The Hunting Game — Human-Centered Technical Writing**
 
 Published English-language writing sample using metaphor and structured communication to make complex technical topics more accessible. Relevant to UX writing, localization clarity, and editorial strategy.
-🔗 https://github.com/pradoprojects/the-hunting-game-human-centered-writing
+<br/>🔗 https://github.com/pradoprojects/the-hunting-game-human-centered-writing
 
 <br/>
 
 ### 🎬 **Zapan — Viral Video Localization (PT-BR → EN-US)**
 
 Comedic localization case study focused on timing, phonetic preservation, and subtitle readability.
-🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral
+<br/>🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral
 
 ---
 
