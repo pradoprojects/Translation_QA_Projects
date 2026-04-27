@@ -1,5 +1,9 @@
 # 🏹 The Hunting Game — Human-Centered Technical Writing Sample
 
+<p align="center">
+  <img src="banner.png" alt="hunting Game Banner" width="100%">
+</p>
+
 A published English-language paper led and authored by **Marllos Paiva Prado**, demonstrating how clear communication, metaphor, and audience-focused writing can make complex technical topics more engaging and accessible.
 
 Originally developed in 2015, this work introduced a **“bug hunting” metaphor** to discuss the lack of user-centered thinking in software testing tools. Rather than relying solely on traditional academic language, the paper framed testers as active problem-solvers navigating tools, strategy, cognition, and decision-making.
