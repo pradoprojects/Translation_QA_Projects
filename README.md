@@ -1,164 +1,137 @@
-# 📄 Translation, Editing & Localization QA Portfolio  
-**Marllos Prado — Portuguese ↔ English**  
-**UX and Localization Specialist**
+# 📄 Translation, Editing & Localization Portfolio
 
-A curated portfolio showcasing **UX-driven localization, multimedia subtitling, and linguistic QA** across gaming, multimedia, technical, and academic content.
+**Marllos Paiva Prado — Brazilian Portuguese ↔ English**
+**Localization Editor | Linguistic QA | UX-Aware Content Specialist**
+
+A curated portfolio showcasing localization, multilingual adaptation, subtitle workflows, editorial review, and language quality across gaming, multimedia, digital, technical, and educational content.
 
 ---
 
 ## 🚀 Start Here
 
-If you're reviewing this portfolio, I recommend starting with:
+### 🦠 **Dangers of the Internet — Freelance Narrative Localization**
 
-🎧 **Catch the Cup — Multilingual UX Through Music**  
-Multimedia UX case study exploring subtitle timing, multilingual pacing, and emotional flow across three coordinated tracks.  
-🔗 https://github.com/pradoprojects/catch-the-cup-localization  
-
-📕 **Pokémon Center — Strategic Localization & UX Study**  
-Localization strategy for PT-BR audiences focusing on terminology governance, usability clarity, and UX-informed editing.  
-🔗 https://github.com/pradoprojects/pokemon-center-ptbr  
-
-🎬 **Zapan — Viral Video Localization (PT-BR → EN-US)**  
-Comedic localization case study focusing on timing, phonetic preservation, and subtitle readability.  
-🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral  
-
-📘 **Main-publication-JSS-2018**  
-Academic technical writing sample demonstrating structured UX-focused documentation.  
-🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
+Freelance localization project for a Brazilian startup involving dialogue-driven educational game content (pt-BR → en-US), focused on character voice, humor adaptation, and terminology consistency.
+🔗 https://github.com/pradoprojects/dangers-of-the-internet-localization
 
 ---
 
-## 📚 Selected Work (by Category)
+### 🎧 **Catch the Cup — Multilingual UX Through Music**
 
-Below are selected samples grouped by type.
-
----
-
-# 🕹 Gaming Localization
+Multimedia localization case study exploring subtitle timing, multilingual pacing, and emotional flow across three coordinated tracks.
+🔗 https://github.com/pradoprojects/catch-the-cup-localization
 
 ---
 
-### 📗 **MegaMan 11 - Intro**  
-**Role:** Translation  
+### 📕 **Pokémon Center — Strategic Localization & UX Study**
 
-**Summary:**  
-Independent work. Translated the intro scene of *MegaMan 11* (Nintendo Switch).
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11  
+PT-BR localization strategy focused on terminology governance, usability clarity, and UX-informed editing.
+🔗 https://github.com/pradoprojects/pokemon-center-ptbr
 
 ---
 
-### 📗 **Bakeru - Menu Options**  
-**Role:** Translation  
+### 🎬 **Zapan — Viral Video Localization (PT-BR → EN-US)**
 
-**Overview:**  
-Independent work. Translated menu options for *Bakeru* (Switch).
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru  
+Comedic localization case study focused on timing, phonetic preservation, and subtitle readability.
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/subtitling-zapan-viral
 
 ---
 
-### 📗 **Sonic Superstars - Menu Options**  
-**Role:** Localization  
+## 📚 Additional Work Samples
 
-**Overview:**  
-Independent work. Localized menu options for *Sonic Superstars* from pt-PT to pt-BR.
+## 🕹 Gaming Localization
 
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic  
+### 📗 **MegaMan 11 — Intro Scene**
 
----
+**Role:** Translation
+Independent sample translating the intro scene for *MegaMan 11*.
 
-# 🔬 Scientific & Technical Writing
-
-Selected publications and technical writing samples:
-
-- **Main-publication-JSS-2018**  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf  
-
-Additional works:
-
-- Prado_ISSRE_2015 (Conference Paper)
-- Prado_IWPD_ISSRE_2016 (Conference Paper)
-- dissertacao_marllos.pdf (Master's Thesis)
-- CLEI155-Article_04-2012 (Article)
-- Proceedings_Eselaw (International Conference Proceedings)
-
-📂 View full document collection:  
-https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/MegaMan11
 
 ---
 
-# 📝 Peer Reviews & QA Reports
+### 📗 **Bakeru — Menu Options**
 
-These samples demonstrate structured evaluation and quality assessment.
+**Role:** Translation
+Independent sample translating menu options for *Bakeru*.
 
----
-
-### 📄 CibSE 2017 @ ICSE  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/Easychair/Reviews and Comments on Submission 184.pdf  
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Bakeru
 
 ---
 
-### 📄 CBSoft 2016  
+### 📗 **Sonic Superstars — Menu Localization**
 
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/SBC/CBSoft 2016.pdf  
+**Role:** Localization
+Independent sample localizing menu options from pt-PT into pt-BR.
 
----
-
-### 📄 SBES 2016 — Technical Research  
-
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/SBC/SBES 2016 - Technical Research.pdf  
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Translations/Sonic
 
 ---
 
-### 📄 Review Request (TSA 2016)  
+## 🔬 Technical Writing & Research
 
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/Easychair/Review Request.pdf  
+Selected technical writing samples demonstrating structured communication, documentation quality, and analytical rigor.
+
+### 📘 **Main-publication-JSS-2018**
+
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Main-publication-JSS-2018.pdf
+
+Additional publications available in the Docs folder.
+
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs
 
 ---
 
-### 📄 Review Request (ESEM 2014)  
+## 📝 Review & Quality Evaluation Samples
 
-🔗  https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews/Easychair/Review Request2.pdf  
+Examples of structured review, feedback, and quality assessment.
+
+* CibSE 2017 @ ICSE
+* CBSoft 2016
+* SBES 2016 — Technical Research
+* TSA 2016 Review Request
+* ESEM 2014 Review Request
+
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Paper_Reviews
 
 ---
 
 ## 🧰 Tools
 
-MemoQ · MateCat  
-Subtitle Edit  
-Google Docs · Microsoft Word · Adobe CC  
-Canva · Figma  
-LaTeX · Overleaf  
-GitHub  
-PDF annotation tools  
-Terminology management workflows
+MemoQ • MateCat
+Subtitle Edit
+Microsoft Word • Google Docs
+Canva • Figma
+LaTeX • Overleaf
+GitHub
+PDF Annotation Tools
+Terminology Management Workflows
 
 ---
 
-## 🎯 Why This Matters for UX & Localization Roles
+## 🎯 Value for Localization Teams
 
-- ✔ Real, verifiable samples  
-- ✔ UX-informed localization reasoning  
-- ✔ Experience with multilingual audiovisual workflows  
-- ✔ Cross-domain language precision  
-- ✔ Structured quality evaluation methodologies  
+✔ Real portfolio samples with verifiable deliverables
+✔ Localization strategy beyond direct translation
+✔ Subtitle timing and multilingual audiovisual workflows
+✔ Strong PT-BR / English cross-cultural communication
+✔ Structured review and editorial quality mindset
+✔ UX-aware language adaptation for digital products
 
 ---
 
-## 📎 Credentials & External Profiles
+## 📎 Credentials
 
-- 🌐 ProZ Profile  
-https://www.proz.com/profile/4523581  
+🌐 ProZ Profile
+https://www.proz.com/profile/4523581
 
-- 📜 Translation Mentorship Certificate  
-https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0  
+📜 Translation & Localization Mentorship Certificate
+https://app.box.com/s/x4sbdk6dmzfa5nhlagvimefmc3fvroy0
 
 ---
 
 ## 📫 Contact
 
-**Marllos Paiva Prado**  
-📧 marllospaiva@gmail.com  
+**Marllos Paiva Prado**
+📧 [marllospaiva@gmail.com](mailto:marllospaiva@gmail.com)
 🔗 https://www.linkedin.com/in/marllos-p-a383641b2
