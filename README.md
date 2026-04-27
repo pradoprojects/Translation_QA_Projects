@@ -18,28 +18,28 @@ A curated portfolio showcasing localization, multilingual adaptation, subtitle w
 Freelance localization project for a Brazilian startup involving dialogue-driven educational game content (pt-BR → en-US), focused on character voice, humor adaptation, and terminology consistency.
 🔗 https://github.com/pradoprojects/dangers-of-the-internet-localization
 
----
+<br/>
 
 ### 🎧 **Catch the Cup — Multilingual UX Through Music**
 
 Multimedia localization case study exploring subtitle timing, multilingual pacing, and emotional flow across three coordinated tracks.
 🔗 https://github.com/pradoprojects/catch-the-cup-localization
 
----
+<br/>
 
 ### 📕 **Pokémon Center — Strategic Localization & UX Study**
 
 PT-BR localization strategy focused on terminology governance, usability clarity, and UX-informed editing.
 🔗 https://github.com/pradoprojects/pokemon-center-ptbr
 
----
+<br/>
 
 ### 🏹 **The Hunting Game — Human-Centered Technical Writing**
 
 Published English-language writing sample using metaphor and structured communication to make complex technical topics more accessible. Relevant to UX writing, localization clarity, and editorial strategy.
 🔗 https://github.com/pradoprojects/the-hunting-game-human-centered-writing
 
----
+<br/>
 
 ### 🎬 **Zapan — Viral Video Localization (PT-BR → EN-US)**
 
