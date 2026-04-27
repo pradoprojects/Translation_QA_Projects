@@ -7,7 +7,7 @@
   <img src="bannerPortfolio.png" alt="Translation, Editing and Localization Portfolio Banner" width="100%">
 </p>
 
-A curated portfolio showcasing localization, multilingual adaptation, subtitle workflows, editorial review, technical communication, and language quality across gaming, multimedia, technical, and educational content.
+A curated portfolio showcasing localization, multilingual communication, and editorial quality across gaming, multimedia, and technical content.
 
 <br/>
 
