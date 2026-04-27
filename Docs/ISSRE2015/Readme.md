@@ -69,6 +69,7 @@ Many ideas explored in this paper remain valuable in modern contexts such as:
 ## 📄 Publication
 
 **WAP: Cognitive Aspects in Unit Testing — The Hunting Game and the Hunter’s Perspective**
+🔗 https://github.com/pradoprojects/Translation_QA_Projects/tree/main/Docs/Prado_ISSRE_2015.pdf
 Published in 2015.
 
 ---
