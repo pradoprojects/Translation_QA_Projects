@@ -3,6 +3,10 @@
 **Marllos Paiva Prado — Brazilian Portuguese ↔ English**
 **Localization Editor | Linguistic QA | UX-Aware Content Specialist**
 
+<p align="center">
+  <img src="bannerPortfolio.png" alt="Portfolio Banner" width="100%">
+</p>
+
 A curated portfolio showcasing localization, multilingual adaptation, subtitle workflows, editorial review, technical communication, and language quality across gaming, multimedia, digital, technical, and educational content.
 
 ---
