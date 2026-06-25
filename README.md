@@ -17,6 +17,13 @@ A curated portfolio showcasing localization, multilingual communication, and edi
 
 <br/>
 
+### 🛡️ Child Safety Educational Comic — PT-BR → EN-US Localization
+Localization of a Brazilian public-sector educational comic focused on child safety, body autonomy, and trusted-adult communication.
+Emphasis on tone preservation, age-appropriate language adaptation, and culturally safe translation decisions for young readers.
+🔗 https://github.com/pradoprojects/child-safety-comic-localization
+
+<br/>
+
 ### 🦠 **Dangers of the Internet — Freelance Narrative Localization**
 
 Freelance localization project for a Brazilian startup involving dialogue-driven educational game content (pt-BR → en-US), focused on character voice, humor adaptation, and terminology consistency.  
